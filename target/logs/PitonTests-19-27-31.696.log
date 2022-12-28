@@ -1,0 +1,4 @@
+2022-12-28 19:27:31,694 INFO t.p.TestCase_5 [main] Kullanici, verilen url'ye gider
+2022-12-28 19:27:31,753 INFO t.p.TestCase_5 [main] Kullanici, 'Create Event' butonuna tiklar
+2022-12-28 19:27:31,801 INFO t.p.TestCase_5 [main] Kullanici, 'Event Name' kismina bilgi girisi yapar
+2022-12-28 19:27:31,875 INFO t.p.TestCase_5 [main] Kullanici, 'Event Description' kismina bilgi girisi yapti

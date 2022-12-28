@@ -1,0 +1,3 @@
+2022-12-28 17:03:51,904 INFO t.p.TestCase_1 [main] Kullanici, verilen url'ye gider
+2022-12-28 17:03:51,962 INFO t.p.TestCase_1 [main] Kullanici, 'Create Event' butonuna tiklar
+2022-12-28 17:03:51,987 INFO t.p.TestCase_1 [main] Kullanici, acilan sayfada create event formunu gordugunu dogrular

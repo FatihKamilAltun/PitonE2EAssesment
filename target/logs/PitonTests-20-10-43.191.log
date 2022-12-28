@@ -1,0 +1,5 @@
+2022-12-28 20:10:43,189 INFO t.p.TestCase_7 [main] Kullanici, 'Last Name' kismina bilgi girisi yapar
+2022-12-28 20:10:43,279 INFO t.p.TestCase_7 [main] Kullanici, 'Contact' kismina bilgi girisi yapar
+2022-12-28 20:10:43,332 INFO t.p.TestCase_7 [main] Kullanici, 'Create New Event' butonuna tiklar
+2022-12-28 20:10:43,385 INFO t.p.TestCase_7 [main] Kullanici, 'Edit Event' butonuna tiklar
+2022-12-28 20:10:43,461 INFO t.p.TestCase_7 [main] Kullanici, 'Event Name' kismini temizleyerek yeni bir bilgi girisi yapar

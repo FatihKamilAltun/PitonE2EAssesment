@@ -1,0 +1,5 @@
+2022-12-28 19:39:30,596 INFO t.p.TestCase_5 [main] Kullanici, 'Last Name' kismina bilgi girisi yapti
+2022-12-28 19:39:30,690 INFO t.p.TestCase_5 [main] Kullanici, 'Contact' kismina bilgi girisi yapti
+2022-12-28 19:39:30,740 INFO t.p.TestCase_5 [main] Kullanici, 'Create New Event' butonuna tiklar
+2022-12-28 19:39:30,749 INFO t.p.TestCase_5 [main] Kullanici, yeni event olusturulduktan sonra gelen dashboard'in tum kodlarini String bir container'a atar
+2022-12-28 19:39:30,749 INFO t.p.TestCase_5 [main] Kullanici, sayfanin tum kodlarinda 'Event created successfully' mesajinin icerdigini dogrular

@@ -1,0 +1,4 @@
+2022-12-28 20:10:43,559 INFO t.p.TestCase_7 [main] Kullanici, 'Event Description' kismini temizleyerek yeni bir bilgi girisi yapar
+2022-12-28 20:10:43,600 INFO t.p.TestCase_7 [main] Kullanici, 'Update Event' butonuna tiklar
+2022-12-28 20:10:43,610 INFO t.p.TestCase_7 [main] Kullanici, event'i guncelledikten sonra gelen dashboard'in tum kodlarini String bir container'a atar
+2022-12-28 20:10:43,610 INFO t.p.TestCase_7 [main] Kullanici, sayfanin tum kodlarinda 'Event updated successfully' mesajinin icerdigini dogrular
