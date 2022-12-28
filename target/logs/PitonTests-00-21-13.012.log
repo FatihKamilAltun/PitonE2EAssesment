@@ -1,0 +1,5 @@
+2022-12-29 00:21:13,010 INFO t.p.TestCase_6 [main] Kullanici, verilen url'ye gider
+2022-12-29 00:21:13,076 INFO t.p.TestCase_6 [main] Kullanici, 'Create Event' butonuna tiklar
+2022-12-29 00:21:13,151 INFO t.p.TestCase_6 [main] Kullanici, 'Event Name' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
+2022-12-29 00:21:13,259 INFO t.p.TestCase_6 [main] Kullanici, 'Event Description' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
+2022-12-29 00:21:13,347 INFO t.p.TestCase_6 [main] Kullanici, 'Event Date' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar

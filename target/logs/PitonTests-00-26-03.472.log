@@ -1,0 +1,4 @@
+2022-12-29 00:26:03,471 INFO t.p.TestCase_6 [main] Kullanici, 'First Name' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
+2022-12-29 00:26:03,544 INFO t.p.TestCase_6 [main] Kullanici, 'Last Name' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
+2022-12-29 00:26:03,646 INFO t.p.TestCase_6 [main] Kullanici, 'Contact' kismina bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
+2022-12-29 00:26:03,696 INFO t.p.TestCase_6 [main] Kullanici, 'Create New Event' butonuna tiklar

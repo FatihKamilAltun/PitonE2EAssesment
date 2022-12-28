@@ -35,7 +35,7 @@ public class TestCase_7 {
         pitonCreateEventPage.eventDescriptionBox.sendKeys(ConfigReader.getProperty("eventDescription1"));
         logger.info("Kullanici, 'Event Description' kismina bilgi girisi yapar");
 
-        pitonCreateEventPage.eventDateBox.sendKeys("2023");
+        pitonCreateEventPage.eventDateBox.sendKeys("11/01/2023");
         logger.info("Kullanici, 'Event Date' kismina bilgi girisi yapar");
 
         pitonCreateEventPage.firstNameBox.sendKeys(faker.name().firstName());

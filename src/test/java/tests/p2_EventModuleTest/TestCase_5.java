@@ -32,7 +32,7 @@ public class TestCase_5 {
         pitonCreateEventPage.eventDescriptionBox.sendKeys(ConfigReader.getProperty("eventDescription1"));
         logger.info("Kullanici, 'Event Description' kismina bilgi girisi yapar");
 
-        pitonCreateEventPage.eventDateBox.sendKeys("2023");
+        pitonCreateEventPage.eventDateBox.sendKeys("11/01/2023");
         logger.info("Kullanici, 'Event Date' kismina bilgi girisi yapar");
 
         pitonCreateEventPage.firstNameBox.sendKeys(faker.name().firstName());
@@ -56,7 +56,7 @@ public class TestCase_5 {
         assert pageSources.contains("Event created successfully");
         logger.info("Kullanici, sayfanin tum kodlarinda 'Event created successfully' mesajinin icerdigini dogrular");
 
-        //Driver.closeDriver();
+        Driver.closeDriver();
         logger.info("Kullanici, driver'i kapatir");
     }
 }
