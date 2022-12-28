@@ -23,4 +23,7 @@ public class PitonEditEventPage {
 
     @FindBy(xpath = "//input[@id='mat-input-13']")
     public WebElement editContactBox;
+
+    @FindBy(xpath = "//h1[text()='Edit Event: #1']")
+    public WebElement editEventTitle;
 }
