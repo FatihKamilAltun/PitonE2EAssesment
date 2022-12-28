@@ -20,4 +20,10 @@ public class PitonDashboardPage {
     @FindBy(xpath = "//button[@title='Edit Event']")
     public WebElement editEventButton;
 
+    @FindBy(xpath = "//button[@title='Participants']")
+    public WebElement participantsButton;
+
+    @FindBy(xpath = "//button[@title='Delete Event']")
+    public WebElement deleteEventButton;
+
 }

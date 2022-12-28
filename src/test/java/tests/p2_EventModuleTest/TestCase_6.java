@@ -107,7 +107,7 @@ public class TestCase_6 {
         Birbirlerine esit olmadigi yani degistirildigi, sonuc olarak duzenlenebildigi goruldu.
          */
 
-        Driver.closeDriver();
+        //Driver.closeDriver();
         logger.info("Kullanici, driver'i kapatir");
 
     }
