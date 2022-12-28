@@ -4,7 +4,6 @@ import com.github.javafaker.Faker;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 import pages.PitonCreateEventPage;
 import pages.PitonDashboardPage;
 import pages.PitonEditEventPage;
@@ -18,7 +17,6 @@ public class TestCase_4 {
     PitonCreateEventPage pitonCreateEventPage = new PitonCreateEventPage();
     PitonEditEventPage pitonEditEventPage=new PitonEditEventPage();
     Faker faker = new Faker();
-    SoftAssert softAssert=new SoftAssert();
     private static Logger logger = LogManager.getLogger(tests.p3_DashboardModuleTest.TestCase_4.class.getName());
 
     @Test

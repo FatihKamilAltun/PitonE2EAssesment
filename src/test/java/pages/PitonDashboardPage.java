@@ -29,4 +29,7 @@ public class PitonDashboardPage {
     @FindBy(xpath = "//h2[@class='mat-dialog-title']")
     public WebElement participantsOfEventText;
 
+    @FindBy(xpath = "//mat-card-content[@class='mat-card-content']")
+    public WebElement noRegisteredEventText;
+
 }
