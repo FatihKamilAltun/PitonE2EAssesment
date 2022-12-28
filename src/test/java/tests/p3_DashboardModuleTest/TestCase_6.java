@@ -84,7 +84,7 @@ public class TestCase_6 {
            ve participants'in goruntulenebildigi dogrulandi.
          */
 
-        //Driver.closeDriver();
+        Driver.closeDriver();
         logger.info("Kullanici, driver'i kapatir");
     }
 }

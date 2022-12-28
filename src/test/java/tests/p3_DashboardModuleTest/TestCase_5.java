@@ -14,6 +14,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.Login;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class TestCase_5 {
@@ -55,18 +56,35 @@ public class TestCase_5 {
         logger.info("Kullanici, 'Create New Event' butonuna tiklar");
 
         List<WebElement> titles= Driver.getDriver().findElements(By.xpath("//tr/th"));
-        List<String> titlesTexts=null;
+        logger.info("Kullanici, create edilen event'in basliklarini List'e atar");
+
+        List<String> titlesTexts=new ArrayList<>();
         for (WebElement w:titles
              ) {
-            System.out.println(w.getText());
             titlesTexts.add(w.getText());
         }
-        logger.info("Kullanici, create edilmis event'in basliklarini yazdirir");
+        logger.info("Kullanici, create edilmis event'in basliklarini yeni olusturulan ArrayList'e ekler");
 
-        System.out.println(titlesTexts);
-
-        //pitonDashboardPage.deleteEventButton.click();
+        pitonDashboardPage.deleteEventButton.click();
         logger.info("Kullanici, 'Delete' butonuna tiklar");
+
+        String pageSource=Driver.getDriver().getPageSource();
+        for (int i = 0; i < titles.size() ; i++) {
+            softAssert.assertFalse(pageSource.contains(titlesTexts.get(i)));
+        }
+        logger.info("Kullanici, basliklarin sayfa kodlarinda yer almadigini dogrular");
+
+        /*
+        - 58 ve 74. satirlar arasindaki islemler su sekilde aciklanabilir;
+        - Create edilen event'in basliklari bir List'e atildi, daha sonrasinda o List'teki basliklar bir ArrayList'e atildi.
+        - Event'i 'Delete' butonuna tiklayarak sildikten sonra tum sayfanin kodlarini bir String'e atayarak
+          onceden olusturulan ArrayList'teki elementler tek tek sayfanin kodlarinin atandigi String'te olmadigi dogrulandi
+         */
+
+        Driver.closeDriver();
+        logger.info("Kullanici, driver'i kapatir");
+
+
 
 
     }
