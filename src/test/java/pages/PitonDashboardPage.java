@@ -26,4 +26,7 @@ public class PitonDashboardPage {
     @FindBy(xpath = "//button[@title='Delete Event']")
     public WebElement deleteEventButton;
 
+    @FindBy(xpath = "//h2[@class='mat-dialog-title']")
+    public WebElement participantsOfEventText;
+
 }
