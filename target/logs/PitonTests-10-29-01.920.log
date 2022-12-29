@@ -1,0 +1,5 @@
+2022-12-29 10:29:01,918 INFO t.p.TestCase_4 [main] Kullanici, verilen url'ye gider
+2022-12-29 10:29:02,001 INFO t.p.TestCase_4 [main] Kullanici, 'Create Event' butonuna tiklar
+2022-12-29 10:29:02,093 INFO t.p.TestCase_4 [main] Kullanici, birden fazla kez 'Add Participant' butonuna tiklar
+2022-12-29 10:29:02,113 INFO t.p.TestCase_4 [main] Kullanici, participant sayilarini bir List'e atar
+2022-12-29 10:29:02,287 INFO t.p.TestCase_4 [main] Kullanici, for araciligi ile kayitlar silinene kadar delete butonuna tiklar

@@ -9,7 +9,6 @@ import pages.PitonCreateEventPage;
 import pages.PitonDashboardPage;
 import utilities.Driver;
 import utilities.Login;
-
 import java.util.List;
 
 public class TestCase_4 {

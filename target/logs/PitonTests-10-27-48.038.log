@@ -1,0 +1,6 @@
+2022-12-29 10:27:48,036 INFO t.p.TestCase_3 [main] Kullanici, verilen url'ye gider
+2022-12-29 10:27:48,147 INFO t.p.TestCase_3 [main] Kullanici, username'i girer
+2022-12-29 10:27:48,219 INFO t.p.TestCase_3 [main] Kullanici, password'u girer
+2022-12-29 10:27:48,284 INFO t.p.TestCase_3 [main] Kullanici, login butonuna tiklar
+2022-12-29 10:27:48,316 INFO t.p.TestCase_3 [main] Kullanici, basarili bir sekilde giris yaptigini dogrular
+2022-12-29 10:27:48,384 INFO t.p.TestCase_3 [main] Kullanici, driver'i kapatir

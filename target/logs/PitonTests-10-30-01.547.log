@@ -1,0 +1,3 @@
+2022-12-29 10:30:01,544 INFO t.p.TestCase_1 [main] Kullanici, verilen url'ye gider
+2022-12-29 10:30:01,555 INFO t.p.TestCase_1 [main] Kullanici, 'dashboard'da oldugunu sayfanin url'sinden dogrular
+2022-12-29 10:30:17,806 INFO t.p.TestCase_1 [main] Kullanici, driver'i kapatir

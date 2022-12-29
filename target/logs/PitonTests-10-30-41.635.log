@@ -1,0 +1,6 @@
+2022-12-29 10:30:41,633 INFO t.p.TestCase_4 [main] Kullanici, verilen url'ye gider
+2022-12-29 10:30:41,714 INFO t.p.TestCase_4 [main] Kullanici, 'Create Event' butonuna tiklar
+2022-12-29 10:30:41,801 INFO t.p.TestCase_4 [main] Kullanici, 'Event Name' kismina bilgi girisi yapar
+2022-12-29 10:30:41,922 INFO t.p.TestCase_4 [main] Kullanici, 'Event Description' kismina bilgi girisi yapar
+2022-12-29 10:30:41,984 INFO t.p.TestCase_4 [main] Kullanici, 'Event Date' kismina bilgi girisi yapar
+2022-12-29 10:30:42,180 INFO t.p.TestCase_4 [main] Kullanici, 'First Name' kismina bilgi girisi yapar ve girilen ismi bir container'e atar

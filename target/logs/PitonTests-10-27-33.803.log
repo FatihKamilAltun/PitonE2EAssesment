@@ -1,0 +1,5 @@
+2022-12-29 10:27:33,801 INFO t.p.TestCase_2 [main] Kullanici, verilen url'ye girer
+2022-12-29 10:27:33,860 INFO t.p.TestCase_2 [main] Kullanici, bilgileri girmeden login butonuna tiklar
+2022-12-29 10:27:33,904 INFO t.p.TestCase_2 [main] Kullanici, 'Username field is required' yazisinin ciktigini dogruladi
+2022-12-29 10:27:33,942 INFO t.p.TestCase_2 [main] Kullanici, 'Password field is required' yazisinin ciktigini dogruladi
+2022-12-29 10:27:34,008 INFO t.p.TestCase_2 [main] Kullanici, driver'i kapatti

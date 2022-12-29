@@ -1,0 +1,5 @@
+2022-12-29 10:27:20,986 INFO t.p.TestCase_1 [main] Kullanici, verilen url'ye gider
+2022-12-29 10:27:21,024 INFO t.p.TestCase_1 [main] Kullanici, acilan sayfada login formu ile karsilastigini dogrular
+2022-12-29 10:27:21,054 INFO t.p.TestCase_1 [main] Kullanici, 'username' kutusunun oldugunu dogrular
+2022-12-29 10:27:21,082 INFO t.p.TestCase_1 [main] Kullanici, 'password' kutusunun oldugunu dogrular
+2022-12-29 10:27:21,109 INFO t.p.TestCase_1 [main] Kullanici, 'login' butonunun oldugunu dogrular
