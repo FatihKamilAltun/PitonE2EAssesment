@@ -20,7 +20,7 @@
 ⚡I used Java and Object - Oriented Programming (OOP) concepts together. <br>
 ⚡I used selenium while writing automation tests, I preferred TestNG as framework. <br>
 ⚡I built the TestNg framework on the POM (Page Object Model) pattern. <br>
-&emsp; ![image](https://user-images.githubusercontent.com/111094536/209914151-010bb1e2-9e7c-4972-a3d4-925fba6a3cca.png) <br> <br> <hr>
+&emsp; ![image](https://user-images.githubusercontent.com/111094536/209918655-6b0a446b-ec51-4d9c-b982-2996bddaf550.png) <br> <br> <hr>
 ### I used LOG4J for informational purposes at every step
 ⚡Log4j, showed me the steps one by one, both in console and on file. <br>
 &emsp; ![image](https://user-images.githubusercontent.com/111094536/209913069-d7149f0a-d56f-441d-970d-bab68ff048dc.png)  <br>
