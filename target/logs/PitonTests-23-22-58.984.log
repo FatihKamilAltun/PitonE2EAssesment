@@ -1,6 +1,0 @@
-2022-12-28 23:22:58,981 INFO t.p.TestCase_6 [main] Kullanici, 'Last Name' kismina bilgi girisi yapar
-2022-12-28 23:22:59,072 INFO t.p.TestCase_6 [main] Kullanici, 'Contact' kismina bilgi girisi yapar
-2022-12-28 23:22:59,122 INFO t.p.TestCase_6 [main] Kullanici, 'Create New Event' butonuna tiklar
-2022-12-28 23:22:59,160 INFO t.p.TestCase_6 [main] Kullanici, participants iconuna tiklar
-2022-12-28 23:22:59,160 INFO t.p.TestCase_6 [main] Kullanici, participants'i goruntuledigini dogrular
-2022-12-28 23:22:59,261 INFO t.p.TestCase_6 [main] Kullanici, driver'i kapatir

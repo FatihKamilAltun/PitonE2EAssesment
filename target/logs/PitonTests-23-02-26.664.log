@@ -1,6 +1,0 @@
-2022-12-28 23:02:26,662 INFO t.p.TestCase_6 [main] Kullanici, verilen url'ye gider
-2022-12-28 23:02:26,746 INFO t.p.TestCase_6 [main] Kullanici, 'Create Event' butonuna tiklar
-2022-12-28 23:02:26,826 INFO t.p.TestCase_6 [main] Kullanici, 'Event Name' kismina bilgi girisi yapar
-2022-12-28 23:02:26,926 INFO t.p.TestCase_6 [main] Kullanici, 'Event Description' kismina bilgi girisi yapar
-2022-12-28 23:02:26,999 INFO t.p.TestCase_6 [main] Kullanici, 'Event Date' kismina bilgi girisi yapar
-2022-12-28 23:02:27,171 INFO t.p.TestCase_6 [main] Kullanici, 'First Name' kismina bilgi girisi yapar

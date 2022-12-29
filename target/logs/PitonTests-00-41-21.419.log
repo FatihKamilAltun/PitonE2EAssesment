@@ -1,5 +1,0 @@
-2022-12-29 00:41:21,417 INFO t.p.TestCase_5 [main] Kullanici, 'Last Name' kismina bilgi girisi yapar
-2022-12-29 00:41:21,509 INFO t.p.TestCase_5 [main] Kullanici, 'Contact' kismina bilgi girisi yapar
-2022-12-29 00:41:21,558 INFO t.p.TestCase_5 [main] Kullanici, 'Create New Event' butonuna tiklar
-2022-12-29 00:41:21,646 INFO t.p.TestCase_5 [main] Kullanici, create edilmis event'in basliklarini yazdirir
-2022-12-29 00:41:21,655 INFO t.p.TestCase_5 [main] Kullanici, 'Delete' butonuna tiklar

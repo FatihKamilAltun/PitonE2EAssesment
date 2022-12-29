@@ -1,5 +1,0 @@
-2022-12-28 17:54:00,319 INFO t.p.TestCase_3 [main] Kullanici, verilen url'ye gider
-2022-12-28 17:54:00,376 INFO t.p.TestCase_3 [main] Kullanici, 'Create Event' butonuna tiklar
-2022-12-28 17:54:00,389 INFO t.p.TestCase_3 [main] Kullanici, participant sayisini bir List'e atar ve size'ini konsola yazdirir
-2022-12-28 17:54:00,425 INFO t.p.TestCase_3 [main] Kullanici, 'Add Participant' butonuna tiklar
-2022-12-28 17:54:00,432 INFO t.p.TestCase_3 [main] Kullanici, participant sayisini bir List'e atar ve size'ini konsola yazdirir

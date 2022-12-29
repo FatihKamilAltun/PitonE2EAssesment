@@ -1,4 +1,0 @@
-2022-12-28 17:19:32,411 INFO t.p.TestCase_2 [main] Kullanici, 'Participant name is required' yazisinin ciktigini dogrular
-2022-12-28 17:19:32,432 INFO t.p.TestCase_2 [main] Kullanici, 'Participant last name is required' yazisinin ciktigini dogrular
-2022-12-28 17:19:32,451 INFO t.p.TestCase_2 [main] Kullanici, 'Please enter email or phone number' yazisinin ciktigini dogrular
-2022-12-28 17:19:48,726 INFO t.p.TestCase_2 [main] Kullanici, driver'i kapatir

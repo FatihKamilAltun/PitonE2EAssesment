@@ -1,3 +1,0 @@
-2022-12-29 01:06:03,307 INFO t.p.TestCase_3 [main] Kullanici, verilen url'ye gider
-2022-12-29 01:06:03,335 INFO t.p.TestCase_3 [main] Kullanici, dashboard'da herhangi bir event create edilmedigini dogrular
-2022-12-29 01:06:19,600 INFO t.p.TestCase_3 [main] Kullanici, driver'i kapatir

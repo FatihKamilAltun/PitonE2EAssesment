@@ -1,4 +1,0 @@
-2022-12-28 22:54:29,224 INFO t.p.TestCase_6 [main] Kullanici, 'Last Name' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-28 22:54:29,420 INFO t.p.TestCase_6 [main] Kullanici, 'Contact' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-28 22:54:29,422 INFO t.p.TestCase_6 [main] Kullanici, degisen bilgilerin birbirleriyle ayni olmadgini softassert methodu kullanarak dogrular
-2022-12-28 22:54:29,423 INFO t.p.TestCase_6 [main] Kullanici, driver'i kapatir

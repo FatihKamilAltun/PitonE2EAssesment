@@ -1,3 +1,0 @@
-2022-12-29 00:22:10,921 INFO t.p.TestCase_6 [main] Kullanici, 'First Name' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-29 00:22:11,028 INFO t.p.TestCase_6 [main] Kullanici, 'Last Name' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-29 00:22:11,150 INFO t.p.TestCase_6 [main] Kullanici, 'Contact' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar

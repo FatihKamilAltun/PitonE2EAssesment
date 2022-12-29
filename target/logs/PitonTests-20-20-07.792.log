@@ -1,4 +1,0 @@
-2022-12-28 20:20:07,792 INFO t.p.TestCase_6 [main] Kullanici, 'Edit Event' butonuna tiklar
-2022-12-28 20:20:07,885 INFO t.p.TestCase_6 [main] Kullanici, 'Event Name' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-28 20:20:08,004 INFO t.p.TestCase_6 [main] Kullanici, 'Event Description' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar
-2022-12-28 20:20:08,096 INFO t.p.TestCase_6 [main] Kullanici, 'First Name' kismini temizleyerek yeni bir bilgi girisi yapar ve girdigi bilgiyi bir String container'a atar

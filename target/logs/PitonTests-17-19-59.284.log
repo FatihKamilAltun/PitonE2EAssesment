@@ -1,5 +1,0 @@
-2022-12-28 17:19:59,282 INFO t.p.TestCase_2 [main] Kullanici, verilen url'ye gider
-2022-12-28 17:19:59,339 INFO t.p.TestCase_2 [main] Kullanici, 'Create Event' butonuna tiklar
-2022-12-28 17:19:59,377 INFO t.p.TestCase_2 [main] Kullanici, 'Create New Event' butonuna tiklar
-2022-12-28 17:19:59,404 INFO t.p.TestCase_2 [main] Kullanici, 'Event name field is required' yazisinin ciktigini dogrular
-2022-12-28 17:19:59,429 INFO t.p.TestCase_2 [main] Kullanici, 'Please choose a valid date' yazisinin ciktigini dogrular

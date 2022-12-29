@@ -1,2 +1,0 @@
-2022-12-29 00:09:06,691 INFO t.p.TestCase_6 [main] Kullanici, degisen bilgilerin birbirleriyle ayni olmadgini softassert methodu kullanarak dogrular
-2022-12-29 00:09:06,692 INFO t.p.TestCase_6 [main] Kullanici, driver'i kapatir
