@@ -23,33 +23,14 @@ public class TestCase_1 {
         login.login();
         logger.info("Kullanici, verilen url'ye gider");
 
-        pitonDashboardPage.createEventButton.click();
-        logger.info("Kullanici, 'Create Event' butonuna tiklar");
+        String pageUrl = Driver.getDriver().getCurrentUrl();
+        System.out.println(pageUrl);
 
-        pitonCreateEventPage.eventNameBox.sendKeys(ConfigReader.getProperty("eventName1"));
-        logger.info("Kullanici, 'Event Name' kismina bilgi girisi yapar");
+        assert pageUrl.contains("dashboard");
+        logger.info("Kullanici, 'dashboard'da oldugunu sayfanin url'sinden dogrular");
 
-        pitonCreateEventPage.eventDescriptionBox.sendKeys(ConfigReader.getProperty("eventDescription1"));
-        logger.info("Kullanici, 'Event Description' kismina bilgi girisi yapar");
-
-        pitonCreateEventPage.eventDateBox.sendKeys("2023");
-        logger.info("Kullanici, 'Event Date' kismina bilgi girisi yapar");
-
-        pitonCreateEventPage.firstNameBox.sendKeys(faker.name().firstName());
-        String firstName = pitonCreateEventPage.firstNameBox.getText();
-        logger.info("Kullanici, 'First Name' kismina bilgi girisi yapar ve girilen ismi bir container'e atar");
-
-        pitonCreateEventPage.lastNameBox.sendKeys(faker.name().lastName());
-        logger.info("Kullanici, 'Last Name' kismina bilgi girisi yapar");
-
-        pitonCreateEventPage.contactBox.sendKeys(faker.internet().emailAddress());
-        logger.info("Kullanici, 'Contact' kismina bilgi girisi yapar");
-
-        pitonCreateEventPage.createNewEventButton.click();
-        logger.info("Kullanici, 'Create New Event' butonuna tiklar");
-
-        String pageTitle = Driver.getDriver().getTitle();
-        System.out.println(pageTitle);
+        Driver.closeDriver();
+        logger.info("Kullanici, driver'i kapatir");
 
     }
 }
